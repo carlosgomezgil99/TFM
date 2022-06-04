@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+
 df=pd.read_excel('data/CMBD_6_20181217-135856.xlsx')
 df_calidad_aire_08=pd.read_csv('data/datos08.csv',sep=';')
 df_calidad_aire_09=pd.read_csv('data/datos09.csv',sep=';')
