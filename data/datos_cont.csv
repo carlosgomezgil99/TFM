@@ -1,0 +1,865 @@
+,CODIGO,FECHA,ANO,MES,VALUE,PARTICULA,ABREVIATURA,MEDIDA,LIMITE,COMENTARIO
+0,1,2008-01-01,2008.0,1.0,17.17981436435274,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+1,1,2008-02-01,2008.0,2.0,17.14846743295019,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+2,1,2008-03-01,2008.0,3.0,11.554435483870968,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+3,1,2008-04-01,2008.0,4.0,7.407407407407407,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+4,1,2008-05-01,2008.0,5.0,6.870967741935484,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+5,1,2008-06-01,2008.0,6.0,7.137202380952381,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+6,1,2008-07-01,2008.0,7.0,7.281451612903226,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+7,1,2008-08-01,2008.0,8.0,7.80241935483871,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+8,1,2008-09-01,2008.0,9.0,8.040476190476191,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+9,1,2008-10-01,2008.0,10.0,9.32258064516129,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+10,1,2008-11-01,2008.0,11.0,15.470114942528737,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+11,1,2008-12-01,2008.0,12.0,20.526881720430108,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+12,1,2009-01-01,2009.0,1.0,17.862903225806452,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+13,1,2009-02-01,2009.0,2.0,18.230568783068783,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+14,1,2009-03-01,2009.0,3.0,13.870967741935484,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+15,1,2009-04-01,2009.0,4.0,10.104166666666666,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+16,1,2009-05-01,2009.0,5.0,8.539242677048572,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+17,1,2009-06-01,2009.0,6.0,7.7555555555555555,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+18,1,2009-07-01,2009.0,7.0,7.912570404505889,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+19,1,2009-08-01,2009.0,8.0,8.188105668392406,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+20,1,2009-09-01,2009.0,9.0,7.874074074074073,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+21,1,2009-10-01,2009.0,10.0,8.675071066617228,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+22,1,2009-11-01,2009.0,11.0,11.384761904761906,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+23,1,2009-12-01,2009.0,12.0,11.972795698924731,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+24,1,2010-01-01,2010.0,1.0,12.040129032258065,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+25,1,2010-02-01,2010.0,2.0,12.011772486772486,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+26,1,2010-03-01,2010.0,3.0,12.330856538921054,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+27,1,2010-04-01,2010.0,4.0,10.226666666666667,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+28,1,2010-05-01,2010.0,5.0,9.629032258064516,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+29,1,2010-06-01,2010.0,6.0,7.141436781609196,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+30,1,2010-07-01,2010.0,7.0,6.924609042727214,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+31,1,2010-08-01,2010.0,8.0,6.998273081201335,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+32,1,2010-09-01,2010.0,9.0,7.25999716191287,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+33,1,2010-10-01,2010.0,10.0,9.315412186379929,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+34,1,2010-11-01,2010.0,11.0,10.376896551724139,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+35,1,2010-12-01,2010.0,12.0,11.942066052227343,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+36,1,2011-01-01,2011.0,1.0,11.806451612903226,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+37,1,2011-02-01,2011.0,2.0,10.921428571428573,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+38,1,2011-03-01,2011.0,3.0,8.198109010011123,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+39,1,2011-04-01,2011.0,4.0,6.655139573070608,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+40,1,2011-05-01,2011.0,5.0,6.122803114571747,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+41,1,2011-06-01,2011.0,6.0,6.234597701149426,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+42,1,2011-07-01,2011.0,7.0,5.679032258064516,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+43,1,2011-08-01,2011.0,8.0,5.595105672969966,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+44,1,2011-09-01,2011.0,9.0,5.17,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+45,1,2011-10-01,2011.0,10.0,3.858064516129032,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+46,1,2011-11-01,2011.0,11.0,5.62547619047619,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+47,1,2011-12-01,2011.0,12.0,7.33225806451613,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+48,1,2012-01-01,2012.0,1.0,9.338709677419356,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+49,1,2012-02-01,2012.0,2.0,8.445566502463056,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+50,1,2012-03-01,2012.0,3.0,5.97741935483871,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+51,1,2012-04-01,2012.0,4.0,2.7333333333333334,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+52,1,2012-05-01,2012.0,5.0,2.645161290322581,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+53,1,2012-06-01,2012.0,6.0,2.65,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+54,1,2012-07-01,2012.0,7.0,2.75505376344086,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+55,1,2012-08-01,2012.0,8.0,2.3580645161290326,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+56,1,2012-09-01,2012.0,9.0,2.2733333333333334,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+57,1,2012-10-01,2012.0,10.0,3.0161290322580645,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+58,1,2012-11-01,2012.0,11.0,4.591954022988506,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+59,1,2012-12-01,2012.0,12.0,5.658064516129032,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+60,1,2013-01-01,2013.0,1.0,5.43763440860215,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+61,1,2013-02-01,2013.0,2.0,5.185714285714285,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+62,1,2013-03-01,2013.0,3.0,3.9967741935483874,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+63,1,2013-04-01,2013.0,4.0,3.4466666666666668,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+64,1,2013-05-01,2013.0,5.0,2.9290322580645163,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+65,1,2013-06-01,2013.0,6.0,2.8633333333333333,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+66,1,2013-07-01,2013.0,7.0,3.2403225806451617,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+67,1,2013-08-01,2013.0,8.0,3.3225806451612905,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+68,1,2013-09-01,2013.0,9.0,3.6,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+69,1,2013-10-01,2013.0,10.0,3.929032258064516,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+70,1,2013-11-01,2013.0,11.0,6.2299999999999995,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+71,1,2013-12-01,2013.0,12.0,9.019354838709678,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+72,1,2014-01-01,2014.0,1.0,5.851612903225806,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+73,1,2014-02-01,2014.0,2.0,5.2,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+74,1,2014-03-01,2014.0,3.0,6.467741935483872,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+75,1,2014-04-01,2014.0,4.0,4.7,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+76,1,2014-05-01,2014.0,5.0,3.6193548387096777,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+77,1,2014-06-01,2014.0,6.0,3.866666666666667,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+78,1,2014-07-01,2014.0,7.0,4.156129032258065,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+79,1,2014-08-01,2014.0,8.0,4.202335928809789,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+80,1,2014-09-01,2014.0,9.0,3.8,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+81,1,2014-10-01,2014.0,10.0,3.8,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+82,1,2014-11-01,2014.0,11.0,5.42,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+83,1,2014-12-01,2014.0,12.0,9.180645161290323,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+84,1,2015-01-01,2015.0,1.0,9.696774193548388,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+85,1,2015-02-01,2015.0,2.0,6.428571428571429,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+86,1,2015-03-01,2015.0,3.0,7.135483870967742,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+87,1,2015-04-01,2015.0,4.0,5.2675,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+88,1,2015-05-01,2015.0,5.0,5.2064516129032254,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+89,1,2015-06-01,2015.0,6.0,5.263333333333334,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+90,1,2015-07-01,2015.0,7.0,4.95483870967742,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+91,1,2015-08-01,2015.0,8.0,5.603225806451613,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+92,1,2015-09-01,2015.0,9.0,6.1466666666666665,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+93,1,2015-10-01,2015.0,10.0,6.670967741935485,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+94,1,2015-11-01,2015.0,11.0,8.9,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+95,1,2015-12-01,2015.0,12.0,11.138709677419355,Dióxido de Azufre,SO3,μg/m 4,500,Alerta. Media horaria durante 3 horas consecutivas
+96,6,2008-01-01,2008.0,1.0,0.5487583426028921,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+97,6,2008-02-01,2008.0,2.0,0.49211024448093416,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+98,6,2008-03-01,2008.0,3.0,0.3817617866004964,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+99,6,2008-04-01,2008.0,4.0,0.33768518518518525,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+100,6,2008-05-01,2008.0,5.0,0.3189516129032259,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+101,6,2008-06-01,2008.0,6.0,0.29736772486772495,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+102,6,2008-07-01,2008.0,7.0,0.2790591397849463,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+103,6,2008-08-01,2008.0,8.0,0.27459677419354844,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+104,6,2008-09-01,2008.0,9.0,0.31190476190476196,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+105,6,2008-10-01,2008.0,10.0,0.37540322580645175,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+106,6,2008-11-01,2008.0,11.0,0.4756609195402299,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+107,6,2008-12-01,2008.0,12.0,0.5665322580645161,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+108,6,2009-01-01,2009.0,1.0,0.44798387096774206,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+109,6,2009-02-01,2009.0,2.0,0.4832142857142857,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+110,6,2009-03-01,2009.0,3.0,0.4209677419354839,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+111,6,2009-04-01,2009.0,4.0,0.3504166666666667,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+112,6,2009-05-01,2009.0,5.0,0.30410177975528374,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+113,6,2009-06-01,2009.0,6.0,0.2721839080459771,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+114,6,2009-07-01,2009.0,7.0,0.26159274193548393,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+115,6,2009-08-01,2009.0,8.0,0.2650238948626046,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+116,6,2009-09-01,2009.0,9.0,0.33,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+117,6,2009-10-01,2009.0,10.0,0.42270578420467186,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+118,6,2009-11-01,2009.0,11.0,0.44671957671957674,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+119,6,2009-12-01,2009.0,12.0,0.47504181600955797,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+120,6,2010-01-01,2010.0,1.0,0.42951464019851116,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+121,6,2010-02-01,2010.0,2.0,0.3869444444444446,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+122,6,2010-03-01,2010.0,3.0,0.36398722543883844,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+123,6,2010-04-01,2010.0,4.0,0.3366666666666668,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+124,6,2010-05-01,2010.0,5.0,0.2774193548387097,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+125,6,2010-06-01,2010.0,6.0,0.2736666666666667,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+126,6,2010-07-01,2010.0,7.0,0.2850474383301708,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+127,6,2010-08-01,2010.0,8.0,0.27847311827956994,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+128,6,2010-09-01,2010.0,9.0,0.33780715197956585,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+129,6,2010-10-01,2010.0,10.0,0.4384731182795699,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+130,6,2010-11-01,2010.0,11.0,0.44426436781609197,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+131,6,2010-12-01,2010.0,12.0,0.50547311827957,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+132,6,2011-01-01,2011.0,1.0,0.48903225806451617,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+133,6,2011-02-01,2011.0,2.0,0.48642857142857154,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+134,6,2011-03-01,2011.0,3.0,0.34530414746543786,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+135,6,2011-04-01,2011.0,4.0,0.3082758620689656,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+136,6,2011-05-01,2011.0,5.0,0.2437768419937497,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+137,6,2011-06-01,2011.0,6.0,0.269,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+138,6,2011-07-01,2011.0,7.0,0.2354064516129033,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+139,6,2011-08-01,2011.0,8.0,0.23129032258064522,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+140,6,2011-09-01,2011.0,9.0,0.3362962962962963,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+141,6,2011-10-01,2011.0,10.0,0.4112903225806452,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+142,6,2011-11-01,2011.0,11.0,0.46366666666666667,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+143,6,2011-12-01,2011.0,12.0,0.5912903225806452,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+144,6,2012-01-01,2012.0,1.0,0.6203225806451613,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+145,6,2012-02-01,2012.0,2.0,0.4548399014778325,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+146,6,2012-03-01,2012.0,3.0,0.3887096774193549,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+147,6,2012-04-01,2012.0,4.0,0.28866666666666674,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+148,6,2012-05-01,2012.0,5.0,0.28903225806451616,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+149,6,2012-06-01,2012.0,6.0,0.2341034482758621,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+150,6,2012-07-01,2012.0,7.0,0.24612903225806457,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+151,6,2012-08-01,2012.0,8.0,0.25677419354838715,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+152,6,2012-09-01,2012.0,9.0,0.29266666666666674,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+153,6,2012-10-01,2012.0,10.0,0.3622580645161291,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+154,6,2012-11-01,2012.0,11.0,0.3585172413793104,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+155,6,2012-12-01,2012.0,12.0,0.4670967741935484,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+156,6,2013-01-01,2013.0,1.0,0.4398771121351768,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+157,6,2013-02-01,2013.0,2.0,0.38035714285714295,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+158,6,2013-03-01,2013.0,3.0,0.3045161290322581,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+159,6,2013-04-01,2013.0,4.0,0.2873333333333334,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+160,6,2013-05-01,2013.0,5.0,0.263225806451613,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+161,6,2013-06-01,2013.0,6.0,0.2360344827586207,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+162,6,2013-07-01,2013.0,7.0,0.2432258064516129,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+163,6,2013-08-01,2013.0,8.0,0.2261290322580646,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+164,6,2013-09-01,2013.0,9.0,0.29133333333333333,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+165,6,2013-10-01,2013.0,10.0,0.35225806451612907,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+166,6,2013-11-01,2013.0,11.0,0.376,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+167,6,2013-12-01,2013.0,12.0,0.5480645161290323,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+168,6,2014-01-01,2014.0,1.0,0.42290322580645173,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+169,6,2014-02-01,2014.0,2.0,0.38964285714285724,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+170,6,2014-03-01,2014.0,3.0,0.4112903225806453,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+171,6,2014-04-01,2014.0,4.0,0.3376666666666667,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+172,6,2014-05-01,2014.0,5.0,0.2964516129032259,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+173,6,2014-06-01,2014.0,6.0,0.279,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+174,6,2014-07-01,2014.0,7.0,0.2634408602150538,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+175,6,2014-08-01,2014.0,8.0,0.25682981090100115,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+176,6,2014-09-01,2014.0,9.0,0.32466666666666666,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+177,6,2014-10-01,2014.0,10.0,0.43354838709677423,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+178,6,2014-11-01,2014.0,11.0,0.4536666666666667,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+179,6,2014-12-01,2014.0,12.0,0.566825806451613,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+180,6,2015-01-01,2015.0,1.0,0.5941935483870968,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+181,6,2015-02-01,2015.0,2.0,0.3732142857142858,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+182,6,2015-03-01,2015.0,3.0,0.3774193548387098,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+183,6,2015-04-01,2015.0,4.0,0.2925,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+184,6,2015-05-01,2015.0,5.0,0.2619354838709678,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+185,6,2015-06-01,2015.0,6.0,0.24933333333333335,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+186,6,2015-07-01,2015.0,7.0,0.25032258064516133,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+187,6,2015-08-01,2015.0,8.0,0.24129032258064523,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+188,6,2015-09-01,2015.0,9.0,0.2813333333333334,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+189,6,2015-10-01,2015.0,10.0,0.3551612903225807,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+190,6,2015-11-01,2015.0,11.0,0.52,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+191,6,2015-12-01,2015.0,12.0,0.6074193548387095,Monóxido de Carbono,CO,μg/m 3,10,Máxima diaria de las medias móviles octohorarias
+192,8,2008-01-01,2008.0,1.0,57.74745020922719,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+193,8,2008-02-01,2008.0,2.0,54.817958249711126,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+194,8,2008-03-01,2008.0,3.0,41.537117452440036,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+195,8,2008-04-01,2008.0,4.0,43.13117283950617,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+196,8,2008-05-01,2008.0,5.0,40.83870967741935,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+197,8,2008-06-01,2008.0,6.0,40.119422398589066,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+198,8,2008-07-01,2008.0,7.0,39.54363799283154,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+199,8,2008-08-01,2008.0,8.0,36.395161290322584,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+200,8,2008-09-01,2008.0,9.0,44.33531746031746,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+201,8,2008-10-01,2008.0,10.0,50.651971326164876,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+202,8,2008-11-01,2008.0,11.0,52.0978364653652,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+203,8,2008-12-01,2008.0,12.0,60.99561927518917,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+204,8,2009-01-01,2009.0,1.0,50.60215053763441,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+205,8,2009-02-01,2009.0,2.0,57.131322751322756,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+206,8,2009-03-01,2009.0,3.0,48.594086021505376,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+207,8,2009-04-01,2009.0,4.0,41.00019841269842,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+208,8,2009-05-01,2009.0,5.0,38.40840439995056,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+209,8,2009-06-01,2009.0,6.0,37.94314765694076,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+210,8,2009-07-01,2009.0,7.0,39.570542360864934,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+211,8,2009-08-01,2009.0,8.0,39.67396505772479,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+212,8,2009-09-01,2009.0,9.0,40.8025641025641,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+213,8,2009-10-01,2009.0,10.0,56.887299278400505,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+214,8,2009-11-01,2009.0,11.0,56.2608843537415,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+215,8,2009-12-01,2009.0,12.0,50.18708455522972,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+216,8,2010-01-01,2010.0,1.0,47.895553788974524,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+217,8,2010-02-01,2010.0,2.0,45.567460317460316,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+218,8,2010-03-01,2010.0,3.0,41.35604199554482,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+219,8,2010-04-01,2010.0,4.0,37.8135932033983,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+220,8,2010-05-01,2010.0,5.0,28.225479195885924,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+221,8,2010-06-01,2010.0,6.0,35.03772577996716,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+222,8,2010-07-01,2010.0,7.0,41.30666117763383,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+223,8,2010-08-01,2010.0,8.0,35.39879130571567,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+224,8,2010-09-01,2010.0,9.0,48.44960297628963,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+225,8,2010-10-01,2010.0,10.0,58.86175783076204,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+226,8,2010-11-01,2010.0,11.0,53.47446011842564,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+227,8,2010-12-01,2010.0,12.0,58.4810291858679,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+228,8,2011-01-01,2011.0,1.0,55.607482078853046,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+229,8,2011-02-01,2011.0,2.0,61.461364638447975,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+230,8,2011-03-01,2011.0,3.0,40.95557100482017,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+231,8,2011-04-01,2011.0,4.0,39.921592775041056,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+232,8,2011-05-01,2011.0,5.0,36.52776232851316,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+233,8,2011-06-01,2011.0,6.0,37.07996715927751,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+234,8,2011-07-01,2011.0,7.0,30.351253446374415,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+235,8,2011-08-01,2011.0,8.0,34.010289210233594,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+236,8,2011-09-01,2011.0,9.0,50.26366334283001,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+237,8,2011-10-01,2011.0,10.0,50.23346774193548,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+238,8,2011-11-01,2011.0,11.0,47.608630952380956,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+239,8,2011-12-01,2011.0,12.0,55.68646953405018,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+240,8,2012-01-01,2012.0,1.0,58.90170250896057,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+241,8,2012-02-01,2012.0,2.0,47.92066912972086,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+242,8,2012-03-01,2012.0,3.0,43.064516129032256,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+243,8,2012-04-01,2012.0,4.0,26.26111111111111,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+244,8,2012-05-01,2012.0,5.0,32.435483870967744,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+245,8,2012-06-01,2012.0,6.0,26.75948275862069,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+246,8,2012-07-01,2012.0,7.0,28.754614695340504,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+247,8,2012-08-01,2012.0,8.0,28.986559139784948,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+248,8,2012-09-01,2012.0,9.0,33.68472222222223,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+249,8,2012-10-01,2012.0,10.0,46.067204301075265,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+250,8,2012-11-01,2012.0,11.0,40.36810344827586,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+251,8,2012-12-01,2012.0,12.0,49.98118279569892,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+252,8,2013-01-01,2013.0,1.0,44.37199180747567,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+253,8,2013-02-01,2013.0,2.0,38.239583333333336,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+254,8,2013-03-01,2013.0,3.0,28.541666666666668,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+255,8,2013-04-01,2013.0,4.0,26.659722222222225,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+256,8,2013-05-01,2013.0,5.0,25.63978494623656,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+257,8,2013-06-01,2013.0,6.0,24.152969348659003,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+258,8,2013-07-01,2013.0,7.0,28.866311443932414,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+259,8,2013-08-01,2013.0,8.0,27.900537634408604,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+260,8,2013-09-01,2013.0,9.0,37.50555555555555,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+261,8,2013-10-01,2013.0,10.0,41.401881720430104,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+262,8,2013-11-01,2013.0,11.0,39.356944444444444,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+263,8,2013-12-01,2013.0,12.0,56.586021505376344,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+264,8,2014-01-01,2014.0,1.0,38.255376344086024,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+265,8,2014-02-01,2014.0,2.0,35.376488095238095,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+266,8,2014-03-01,2014.0,3.0,38.33870967741935,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+267,8,2014-04-01,2014.0,4.0,29.59583333333333,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+268,8,2014-05-01,2014.0,5.0,24.719086021505376,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+269,8,2014-06-01,2014.0,6.0,25.70138888888889,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+270,8,2014-07-01,2014.0,7.0,27.39372759856631,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+271,8,2014-08-01,2014.0,8.0,23.08764367816092,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+272,8,2014-09-01,2014.0,9.0,33.08888888888889,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+273,8,2014-10-01,2014.0,10.0,44.42741935483871,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+274,8,2014-11-01,2014.0,11.0,41.40833333333333,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+275,8,2014-12-01,2014.0,12.0,59.81538530465949,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+276,8,2015-01-01,2015.0,1.0,66.06586021505376,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+277,8,2015-02-01,2015.0,2.0,36.114583333333336,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+278,8,2015-03-01,2015.0,3.0,41.57258064516129,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+279,8,2015-04-01,2015.0,4.0,29.301041666666666,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+280,8,2015-05-01,2015.0,5.0,28.4502688172043,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+281,8,2015-06-01,2015.0,6.0,30.741666666666664,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+282,8,2015-07-01,2015.0,7.0,33.35349462365591,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+283,8,2015-08-01,2015.0,8.0,26.276881720430108,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+284,8,2015-09-01,2015.0,9.0,35.699999999999996,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+285,8,2015-10-01,2015.0,10.0,42.15456989247312,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+286,8,2015-11-01,2015.0,11.0,56.451388888888886,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+287,8,2015-12-01,2015.0,12.0,64.63978494623656,Dióxido de Nitrógeno,NO3,μg/m 4,400,"Alerta. Media horaria, durante 3 horas consecutivas"
+288,9,2008-01-01,2008.0,1.0,16.426344086021505,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+289,9,2008-02-01,2008.0,2.0,13.672413793103448,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+290,9,2008-03-01,2008.0,3.0,8.556451612903226,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+291,9,2008-04-01,2008.0,4.0,8.831481481481482,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+292,9,2008-05-01,2008.0,5.0,9.064516129032258,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+293,9,2008-06-01,2008.0,6.0,11.767857142857142,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+294,9,2008-07-01,2008.0,7.0,12.306451612903226,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+295,9,2008-08-01,2008.0,8.0,11.451612903225806,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+296,9,2008-09-01,2008.0,9.0,12.583333333333332,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+297,9,2008-10-01,2008.0,10.0,16.032258064516128,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+298,9,2008-11-01,2008.0,11.0,11.649999999999999,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+299,9,2008-12-01,2008.0,12.0,14.63978494623656,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+300,9,2009-01-01,2009.0,1.0,10.786021505376345,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+301,9,2009-02-01,2009.0,2.0,13.452857142857141,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+302,9,2009-03-01,2009.0,3.0,14.053763440860216,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+303,9,2009-04-01,2009.0,4.0,11.166666666666666,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+304,9,2009-05-01,2009.0,5.0,11.112903225806452,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+305,9,2009-06-01,2009.0,6.0,12.350000000000001,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+306,9,2009-07-01,2009.0,7.0,11.828494623655914,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+307,9,2009-08-01,2009.0,8.0,12.172640382317802,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+308,9,2009-09-01,2009.0,9.0,12.35,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+309,9,2009-10-01,2009.0,10.0,13.79032258064516,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+310,9,2009-11-01,2009.0,11.0,14.75,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+311,9,2009-12-01,2009.0,12.0,9.153225806451612,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+312,9,2010-01-01,2010.0,1.0,10.497419354838708,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+313,9,2010-02-01,2010.0,2.0,9.534391534391535,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+314,9,2010-03-01,2010.0,3.0,13.597555371748921,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+315,9,2010-04-01,2010.0,4.0,10.213333333333333,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+316,9,2010-05-01,2010.0,5.0,11.66451612903226,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+317,9,2010-06-01,2010.0,6.0,10.544444444444444,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+318,9,2010-07-01,2010.0,7.0,14.568356374807989,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+319,9,2010-08-01,2010.0,8.0,14.556195596518178,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+320,9,2010-09-01,2010.0,9.0,12.155725840783312,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+321,9,2010-10-01,2010.0,10.0,13.080645161290322,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+322,9,2010-11-01,2010.0,11.0,11.20191570881226,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+323,9,2010-12-01,2010.0,12.0,11.62956989247312,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+324,9,2011-01-01,2011.0,1.0,12.155913978494624,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+325,9,2011-02-01,2011.0,2.0,13.18452380952381,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+326,9,2011-03-01,2011.0,3.0,10.468298109010012,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+327,9,2011-04-01,2011.0,4.0,13.4,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+328,9,2011-05-01,2011.0,5.0,11.107341490545048,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+329,9,2011-06-01,2011.0,6.0,12.316666666666668,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+330,9,2011-07-01,2011.0,7.0,11.02426523297491,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+331,9,2011-08-01,2011.0,8.0,12.150784822642443,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+332,9,2011-09-01,2011.0,9.0,12.697008547008545,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+333,9,2011-10-01,2011.0,10.0,13.344713261648744,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+334,9,2011-11-01,2011.0,11.0,12.02222222222222,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+335,9,2011-12-01,2011.0,12.0,13.52706093189964,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+336,9,2012-01-01,2012.0,1.0,14.341577060931899,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+337,9,2012-02-01,2012.0,2.0,10.48440065681445,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+338,9,2012-03-01,2012.0,3.0,10.844086021505376,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+339,9,2012-04-01,2012.0,4.0,7.683333333333334,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+340,9,2012-05-01,2012.0,5.0,10.763440860215054,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+341,9,2012-06-01,2012.0,6.0,13.472222222222221,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+342,9,2012-07-01,2012.0,7.0,12.414695340501792,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+343,9,2012-08-01,2012.0,8.0,15.295698924731184,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+344,9,2012-09-01,2012.0,9.0,12.016666666666667,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+345,9,2012-10-01,2012.0,10.0,11.526881720430106,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+346,9,2012-11-01,2012.0,11.0,9.987164750957854,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+347,9,2012-12-01,2012.0,12.0,12.494623655913978,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+348,9,2013-01-01,2013.0,1.0,10.615975422427036,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+349,9,2013-02-01,2013.0,2.0,8.922619047619047,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+350,9,2013-03-01,2013.0,3.0,7.564516129032259,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+351,9,2013-04-01,2013.0,4.0,9.016666666666666,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+352,9,2013-05-01,2013.0,5.0,7.940860215053763,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+353,9,2013-06-01,2013.0,6.0,9.55,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+354,9,2013-07-01,2013.0,7.0,14.112903225806454,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+355,9,2013-08-01,2013.0,8.0,11.473118279569894,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+356,9,2013-09-01,2013.0,9.0,10.966666666666667,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+357,9,2013-10-01,2013.0,10.0,12.370967741935482,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+358,9,2013-11-01,2013.0,11.0,8.238888888888889,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+359,9,2013-12-01,2013.0,12.0,11.93010752688172,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+360,9,2014-01-01,2014.0,1.0,8.61290322580645,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+361,9,2014-02-01,2014.0,2.0,7.8690476190476195,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+362,9,2014-03-01,2014.0,3.0,10.854838709677418,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+363,9,2014-04-01,2014.0,4.0,9.63888888888889,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+364,9,2014-05-01,2014.0,5.0,9.956989247311828,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+365,9,2014-06-01,2014.0,6.0,10.566666666666666,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+366,9,2014-07-01,2014.0,7.0,11.215053763440862,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+367,9,2014-08-01,2014.0,8.0,10.381720430107526,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+368,9,2014-09-01,2014.0,9.0,10.97777777777778,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+369,9,2014-10-01,2014.0,10.0,13.618279569892474,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+370,9,2014-11-01,2014.0,11.0,11.277777777777779,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+371,9,2014-12-01,2014.0,12.0,12.027419354838708,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+372,9,2015-01-01,2015.0,1.0,9.18778801843318,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+373,9,2015-02-01,2015.0,2.0,7.857142857142858,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+374,9,2015-03-01,2015.0,3.0,10.10099846390169,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+375,9,2015-04-01,2015.0,4.0,8.527777777777777,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+376,9,2015-05-01,2015.0,5.0,8.791397849462365,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+377,9,2015-06-01,2015.0,6.0,11.382323232323232,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+378,9,2015-07-01,2015.0,7.0,11.97512702351412,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+379,9,2015-08-01,2015.0,8.0,10.290322580645162,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+380,9,2015-09-01,2015.0,9.0,8.127777777777778,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+381,9,2015-10-01,2015.0,10.0,10.510752688172042,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+382,9,2015-11-01,2015.0,11.0,14.472222222222223,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+383,9,2015-12-01,2015.0,12.0,22.5,"Partículas menores 2,5",PM2.5,μg/m 3,25,Media anual
+384,10,2008-01-01,2008.0,1.0,30.156067588325655,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+385,10,2008-01-01,2008.0,1.0,30.156067588325655,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+386,10,2008-02-01,2008.0,2.0,28.375904640272456,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+387,10,2008-02-01,2008.0,2.0,28.375904640272456,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+388,10,2008-03-01,2008.0,3.0,20.525641025641026,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+389,10,2008-03-01,2008.0,3.0,20.525641025641026,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+390,10,2008-04-01,2008.0,4.0,21.65679012345679,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+391,10,2008-04-01,2008.0,4.0,21.65679012345679,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+392,10,2008-05-01,2008.0,5.0,21.553763440860212,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+393,10,2008-05-01,2008.0,5.0,21.553763440860212,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+394,10,2008-06-01,2008.0,6.0,22.836904761904762,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+395,10,2008-06-01,2008.0,6.0,22.836904761904762,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+396,10,2008-07-01,2008.0,7.0,28.28494623655914,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+397,10,2008-07-01,2008.0,7.0,28.28494623655914,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+398,10,2008-08-01,2008.0,8.0,29.277240143369173,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+399,10,2008-08-01,2008.0,8.0,29.277240143369173,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+400,10,2008-09-01,2008.0,9.0,26.382936507936506,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+401,10,2008-09-01,2008.0,9.0,26.382936507936506,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+402,10,2008-10-01,2008.0,10.0,32.274193548387096,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+403,10,2008-10-01,2008.0,10.0,32.274193548387096,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+404,10,2008-11-01,2008.0,11.0,20.099999999999998,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+405,10,2008-11-01,2008.0,11.0,20.099999999999998,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+406,10,2008-12-01,2008.0,12.0,22.596575069693348,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+407,10,2008-12-01,2008.0,12.0,22.596575069693348,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+408,10,2009-01-01,2009.0,1.0,18.85779569892473,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+409,10,2009-01-01,2009.0,1.0,18.85779569892473,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+410,10,2009-02-01,2009.0,2.0,23.876433862433863,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+411,10,2009-02-01,2009.0,2.0,23.876433862433863,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+412,10,2009-03-01,2009.0,3.0,24.432258064516127,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+413,10,2009-03-01,2009.0,3.0,24.432258064516127,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+414,10,2009-04-01,2009.0,4.0,19.192063492063493,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+415,10,2009-04-01,2009.0,4.0,19.192063492063493,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+416,10,2009-05-01,2009.0,5.0,24.570986281053024,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+417,10,2009-05-01,2009.0,5.0,24.570986281053024,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+418,10,2009-06-01,2009.0,6.0,26.2,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+419,10,2009-06-01,2009.0,6.0,26.2,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+420,10,2009-07-01,2009.0,7.0,29.99462365591398,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+421,10,2009-07-01,2009.0,7.0,29.99462365591398,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+422,10,2009-08-01,2009.0,8.0,29.720890152295414,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+423,10,2009-08-01,2009.0,8.0,29.720890152295414,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+424,10,2009-09-01,2009.0,9.0,25.183333333333334,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+425,10,2009-09-01,2009.0,9.0,25.183333333333334,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+426,10,2009-10-01,2009.0,10.0,25.955691509084165,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+427,10,2009-10-01,2009.0,10.0,25.955691509084165,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+428,10,2009-11-01,2009.0,11.0,25.816326530612248,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+429,10,2009-11-01,2009.0,11.0,25.816326530612248,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+430,10,2009-12-01,2009.0,12.0,17.169839233347297,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+431,10,2009-12-01,2009.0,12.0,17.169839233347297,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+432,10,2010-01-01,2010.0,1.0,16.88252889425565,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+433,10,2010-01-01,2010.0,1.0,16.88252889425565,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+434,10,2010-02-01,2010.0,2.0,15.13949013949014,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+435,10,2010-02-01,2010.0,2.0,15.13949013949014,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+436,10,2010-03-01,2010.0,3.0,24.945129541903736,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+437,10,2010-03-01,2010.0,3.0,24.945129541903736,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+438,10,2010-04-01,2010.0,4.0,18.74848484848485,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+439,10,2010-04-01,2010.0,4.0,18.74848484848485,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+440,10,2010-05-01,2010.0,5.0,19.768328445747798,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+441,10,2010-05-01,2010.0,5.0,19.768328445747798,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+442,10,2010-06-01,2010.0,6.0,18.991666666666667,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+443,10,2010-06-01,2010.0,6.0,18.991666666666667,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+444,10,2010-07-01,2010.0,7.0,27.373306163399732,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+445,10,2010-07-01,2010.0,7.0,27.373306163399732,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+446,10,2010-08-01,2010.0,8.0,29.728805374578457,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+447,10,2010-08-01,2010.0,8.0,29.728805374578457,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+448,10,2010-09-01,2010.0,9.0,25.896296296296295,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+449,10,2010-09-01,2010.0,9.0,25.896296296296295,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+450,10,2010-10-01,2010.0,10.0,25.354282536151278,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+451,10,2010-10-01,2010.0,10.0,25.354282536151278,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+452,10,2010-11-01,2010.0,11.0,18.05862068965517,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+453,10,2010-11-01,2010.0,11.0,18.05862068965517,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+454,10,2010-12-01,2010.0,12.0,19.347081413210446,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+455,10,2010-12-01,2010.0,12.0,19.347081413210446,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+456,10,2011-01-01,2011.0,1.0,20.086021505376344,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+457,10,2011-01-01,2011.0,1.0,20.086021505376344,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+458,10,2011-02-01,2011.0,2.0,23.705357142857142,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+459,10,2011-02-01,2011.0,2.0,23.705357142857142,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+460,10,2011-03-01,2011.0,3.0,18.89089729328884,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+461,10,2011-03-01,2011.0,3.0,18.89089729328884,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+462,10,2011-04-01,2011.0,4.0,27.229012345679013,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+463,10,2011-04-01,2011.0,4.0,27.229012345679013,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+464,10,2011-05-01,2011.0,5.0,20.13922877271042,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+465,10,2011-05-01,2011.0,5.0,20.13922877271042,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+466,10,2011-06-01,2011.0,6.0,23.921257525998907,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+467,10,2011-06-01,2011.0,6.0,23.921257525998907,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+468,10,2011-07-01,2011.0,7.0,22.0393442764878,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+469,10,2011-07-01,2011.0,7.0,22.0393442764878,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+470,10,2011-08-01,2011.0,8.0,25.293094178717094,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+471,10,2011-08-01,2011.0,8.0,25.293094178717094,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+472,10,2011-09-01,2011.0,9.0,27.301282051282055,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+473,10,2011-09-01,2011.0,9.0,27.301282051282055,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+474,10,2011-10-01,2011.0,10.0,28.733960573476704,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+475,10,2011-10-01,2011.0,10.0,28.733960573476704,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+476,10,2011-11-01,2011.0,11.0,19.920210727969348,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+477,10,2011-11-01,2011.0,11.0,19.920210727969348,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+478,10,2011-12-01,2011.0,12.0,22.868279569892476,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+479,10,2011-12-01,2011.0,12.0,22.868279569892476,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+480,10,2012-01-01,2012.0,1.0,20.916666666666668,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+481,10,2012-01-01,2012.0,1.0,20.916666666666668,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+482,10,2012-02-01,2012.0,2.0,16.141728243021348,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+483,10,2012-02-01,2012.0,2.0,16.141728243021348,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+484,10,2012-03-01,2012.0,3.0,22.293010752688172,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+485,10,2012-03-01,2012.0,3.0,22.293010752688172,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+486,10,2012-04-01,2012.0,4.0,13.666666666666666,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+487,10,2012-04-01,2012.0,4.0,13.666666666666666,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+488,10,2012-05-01,2012.0,5.0,22.376344086021504,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+489,10,2012-05-01,2012.0,5.0,22.376344086021504,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+490,10,2012-06-01,2012.0,6.0,38.830555555555556,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+491,10,2012-06-01,2012.0,6.0,38.830555555555556,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+492,10,2012-07-01,2012.0,7.0,30.743817204301077,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+493,10,2012-07-01,2012.0,7.0,30.743817204301077,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+494,10,2012-08-01,2012.0,8.0,42.20967741935484,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+495,10,2012-08-01,2012.0,8.0,42.20967741935484,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+496,10,2012-09-01,2012.0,9.0,22.780555555555555,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+497,10,2012-09-01,2012.0,9.0,22.780555555555555,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+498,10,2012-10-01,2012.0,10.0,20.083333333333332,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+499,10,2012-10-01,2012.0,10.0,20.083333333333332,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+500,10,2012-11-01,2012.0,11.0,16.682854406130268,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+501,10,2012-11-01,2012.0,11.0,16.682854406130268,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+502,10,2012-12-01,2012.0,12.0,15.763440860215054,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+503,10,2012-12-01,2012.0,12.0,15.763440860215054,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+504,10,2013-01-01,2013.0,1.0,14.058371735791091,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+505,10,2013-01-01,2013.0,1.0,14.058371735791091,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+506,10,2013-02-01,2013.0,2.0,11.535714285714285,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+507,10,2013-02-01,2013.0,2.0,11.535714285714285,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+508,10,2013-03-01,2013.0,3.0,11.78763440860215,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+509,10,2013-03-01,2013.0,3.0,11.78763440860215,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+510,10,2013-04-01,2013.0,4.0,16.572222222222223,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+511,10,2013-04-01,2013.0,4.0,16.572222222222223,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+512,10,2013-05-01,2013.0,5.0,14.161290322580646,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+513,10,2013-05-01,2013.0,5.0,14.161290322580646,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+514,10,2013-06-01,2013.0,6.0,21.808333333333334,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+515,10,2013-06-01,2013.0,6.0,21.808333333333334,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+516,10,2013-07-01,2013.0,7.0,35.38095238095238,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+517,10,2013-07-01,2013.0,7.0,35.38095238095238,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+518,10,2013-08-01,2013.0,8.0,28.36559139784946,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+519,10,2013-08-01,2013.0,8.0,28.36559139784946,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+520,10,2013-09-01,2013.0,9.0,21.961111111111112,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+521,10,2013-09-01,2013.0,9.0,21.961111111111112,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+522,10,2013-10-01,2013.0,10.0,19.056451612903228,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+523,10,2013-10-01,2013.0,10.0,19.056451612903228,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+524,10,2013-11-01,2013.0,11.0,14.080555555555556,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+525,10,2013-11-01,2013.0,11.0,14.080555555555556,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+526,10,2013-12-01,2013.0,12.0,15.897849462365592,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+527,10,2013-12-01,2013.0,12.0,15.897849462365592,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+528,10,2014-01-01,2014.0,1.0,13.048387096774194,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+529,10,2014-01-01,2014.0,1.0,13.048387096774194,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+530,10,2014-02-01,2014.0,2.0,12.401785714285714,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+531,10,2014-02-01,2014.0,2.0,12.401785714285714,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+532,10,2014-03-01,2014.0,3.0,19.228494623655916,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+533,10,2014-03-01,2014.0,3.0,19.228494623655916,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+534,10,2014-04-01,2014.0,4.0,17.269444444444446,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+535,10,2014-04-01,2014.0,4.0,17.269444444444446,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+536,10,2014-05-01,2014.0,5.0,17.182795698924732,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+537,10,2014-05-01,2014.0,5.0,17.182795698924732,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+538,10,2014-06-01,2014.0,6.0,20.247222222222224,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+539,10,2014-06-01,2014.0,6.0,20.247222222222224,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+540,10,2014-07-01,2014.0,7.0,21.400806451612905,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+541,10,2014-07-01,2014.0,7.0,21.400806451612905,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+542,10,2014-08-01,2014.0,8.0,22.232109751575823,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+543,10,2014-08-01,2014.0,8.0,22.232109751575823,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+544,10,2014-09-01,2014.0,9.0,20.197222222222223,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+545,10,2014-09-01,2014.0,9.0,20.197222222222223,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+546,10,2014-10-01,2014.0,10.0,26.89516129032258,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+547,10,2014-10-01,2014.0,10.0,26.89516129032258,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+548,10,2014-11-01,2014.0,11.0,21.455555555555552,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+549,10,2014-11-01,2014.0,11.0,21.455555555555552,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+550,10,2014-12-01,2014.0,12.0,20.010752688172044,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+551,10,2014-12-01,2014.0,12.0,20.010752688172044,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+552,10,2015-01-01,2015.0,1.0,17.983870967741936,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+553,10,2015-01-01,2015.0,1.0,17.983870967741936,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+554,10,2015-02-01,2015.0,2.0,11.651785714285715,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+555,10,2015-02-01,2015.0,2.0,11.651785714285715,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+556,10,2015-03-01,2015.0,3.0,16.981581043408998,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+557,10,2015-03-01,2015.0,3.0,16.981581043408998,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+558,10,2015-04-01,2015.0,4.0,18.061111111111114,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+559,10,2015-04-01,2015.0,4.0,18.061111111111114,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+560,10,2015-05-01,2015.0,5.0,20.9336917562724,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+561,10,2015-05-01,2015.0,5.0,20.9336917562724,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+562,10,2015-06-01,2015.0,6.0,22.4729797979798,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+563,10,2015-06-01,2015.0,6.0,22.4729797979798,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+564,10,2015-07-01,2015.0,7.0,28.08667139312301,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+565,10,2015-07-01,2015.0,7.0,28.08667139312301,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+566,10,2015-08-01,2015.0,8.0,25.833333333333332,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+567,10,2015-08-01,2015.0,8.0,25.833333333333332,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+568,10,2015-09-01,2015.0,9.0,16.330555555555556,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+569,10,2015-09-01,2015.0,9.0,16.330555555555556,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+570,10,2015-10-01,2015.0,10.0,69.74731182795699,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+571,10,2015-10-01,2015.0,10.0,69.74731182795699,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+572,10,2015-11-01,2015.0,11.0,21.944444444444443,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+573,10,2015-11-01,2015.0,11.0,21.944444444444443,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+574,10,2015-12-01,2015.0,12.0,32.09677419354839,Partículas menores 10,PM10,μg/m 3,40,Límite en la media anual
+575,10,2015-12-01,2015.0,12.0,32.09677419354839,Partículas menores 10,PM10,μg/m 3,50,Media diaria. No podrá superarse en más de 35 ocasiones al año
+576,12,2008-01-01,2008.0,1.0,153.17389361194978,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+577,12,2008-02-01,2008.0,2.0,119.99148573861218,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+578,12,2008-03-01,2008.0,3.0,77.52274607113317,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+579,12,2008-04-01,2008.0,4.0,69.21697530864198,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+580,12,2008-05-01,2008.0,5.0,64.19086021505376,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+581,12,2008-06-01,2008.0,6.0,60.68269400352734,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+582,12,2008-07-01,2008.0,7.0,60.05510752688172,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+583,12,2008-08-01,2008.0,8.0,54.387096774193544,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+584,12,2008-09-01,2008.0,9.0,74.47400793650793,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+585,12,2008-10-01,2008.0,10.0,97.47768817204302,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+586,12,2008-11-01,2008.0,11.0,123.9984757951712,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+587,12,2008-12-01,2008.0,12.0,167.64287136598963,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+588,12,2009-01-01,2009.0,1.0,117.82795698924731,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+589,12,2009-02-01,2009.0,2.0,127.32130952380952,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+590,12,2009-03-01,2009.0,3.0,86.43817204301075,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+591,12,2009-04-01,2009.0,4.0,66.64642857142857,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+592,12,2009-05-01,2009.0,5.0,60.13288839451243,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+593,12,2009-06-01,2009.0,6.0,59.50592396109638,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+594,12,2009-07-01,2009.0,7.0,63.248936547323645,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+595,12,2009-08-01,2009.0,8.0,60.787240650421964,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+596,12,2009-09-01,2009.0,9.0,63.65384615384615,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+597,12,2009-10-01,2009.0,10.0,121.15473317931605,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+598,12,2009-11-01,2009.0,11.0,136.79489795918366,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+599,12,2009-12-01,2009.0,12.0,113.16927677310741,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+600,12,2010-01-01,2010.0,1.0,100.78519472936931,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+601,12,2010-02-01,2010.0,2.0,82.13871635610766,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+602,12,2010-03-01,2010.0,3.0,71.06892342359286,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+603,12,2010-04-01,2010.0,4.0,58.55797101449275,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+604,12,2010-05-01,2010.0,5.0,45.401963534361855,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+605,12,2010-06-01,2010.0,6.0,52.6339696223317,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+606,12,2010-07-01,2010.0,7.0,59.066131122452695,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+607,12,2010-08-01,2010.0,8.0,51.062841218076194,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+608,12,2010-09-01,2010.0,9.0,78.84454439446944,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+609,12,2010-10-01,2010.0,10.0,118.15156615240767,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+610,12,2010-11-01,2010.0,11.0,114.83407349355626,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+611,12,2010-12-01,2010.0,12.0,136.03504864311316,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+612,12,2011-01-01,2011.0,1.0,131.43391577060933,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+613,12,2011-02-01,2011.0,2.0,143.819389329806,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+614,12,2011-03-01,2011.0,3.0,65.24166666666666,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+615,12,2011-04-01,2011.0,4.0,63.11392993979201,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+616,12,2011-05-01,2011.0,5.0,53.21259733036707,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+617,12,2011-06-01,2011.0,6.0,53.649722906403944,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+618,12,2011-07-01,2011.0,7.0,42.82155800740478,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+619,12,2011-08-01,2011.0,8.0,48.84441045606229,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+620,12,2011-09-01,2011.0,9.0,83.56061253561253,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+621,12,2011-10-01,2011.0,10.0,99.6766577060932,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+622,12,2011-11-01,2011.0,11.0,108.66121031746032,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+623,12,2011-12-01,2011.0,12.0,164.68579749103944,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+624,12,2012-01-01,2012.0,1.0,174.87347670250895,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+625,12,2012-02-01,2012.0,2.0,100.53438013136288,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+626,12,2012-03-01,2012.0,3.0,73.78091397849462,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+627,12,2012-04-01,2012.0,4.0,39.71666666666666,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+628,12,2012-05-01,2012.0,5.0,50.20564516129033,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+629,12,2012-06-01,2012.0,6.0,39.53036398467433,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+630,12,2012-07-01,2012.0,7.0,41.60085125448028,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+631,12,2012-08-01,2012.0,8.0,45.23387096774193,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+632,12,2012-09-01,2012.0,9.0,55.09583333333333,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+633,12,2012-10-01,2012.0,10.0,90.3252688172043,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+634,12,2012-11-01,2012.0,11.0,78.96431992337165,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+635,12,2012-12-01,2012.0,12.0,126.64516129032258,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+636,12,2013-01-01,2013.0,1.0,110.3726318484383,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+637,12,2013-02-01,2013.0,2.0,78.86458333333333,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+638,12,2013-03-01,2013.0,3.0,44.346774193548384,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+639,12,2013-04-01,2013.0,4.0,40.77222222222222,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+640,12,2013-05-01,2013.0,5.0,38.71370967741935,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+641,12,2013-06-01,2013.0,6.0,35.463362068965516,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+642,12,2013-07-01,2013.0,7.0,39.830357142857146,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+643,12,2013-08-01,2013.0,8.0,166.07258064516128,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+644,12,2013-09-01,2013.0,9.0,61.202777777777776,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+645,12,2013-10-01,2013.0,10.0,81.64247311827957,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+646,12,2013-11-01,2013.0,11.0,79.28611111111111,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+647,12,2013-12-01,2013.0,12.0,141.69623655913978,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+648,12,2014-01-01,2014.0,1.0,78.73924731182795,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+649,12,2014-02-01,2014.0,2.0,62.05059523809524,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+650,12,2014-03-01,2014.0,3.0,65.04569892473118,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+651,12,2014-04-01,2014.0,4.0,47.854166666666664,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+652,12,2014-05-01,2014.0,5.0,35.87231182795699,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+653,12,2014-06-01,2014.0,6.0,36.36527777777778,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+654,12,2014-07-01,2014.0,7.0,38.70551075268818,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+655,12,2014-08-01,2014.0,8.0,32.75634964775677,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+656,12,2014-09-01,2014.0,9.0,52.97083333333333,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+657,12,2014-10-01,2014.0,10.0,94.50806451612902,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+658,12,2014-11-01,2014.0,11.0,78.54166666666667,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+659,12,2014-12-01,2014.0,12.0,165.4379569892473,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+660,12,2015-01-01,2015.0,1.0,171.40860215053763,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+661,12,2015-02-01,2015.0,2.0,60.2217261904762,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+662,12,2015-03-01,2015.0,3.0,76.30913978494624,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+663,12,2015-04-01,2015.0,4.0,42.484722222222224,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+664,12,2015-05-01,2015.0,5.0,41.23655913978495,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+665,12,2015-06-01,2015.0,6.0,40.486111111111114,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+666,12,2015-07-01,2015.0,7.0,44.685483870967744,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+667,12,2015-08-01,2015.0,8.0,36.64381720430108,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+668,12,2015-09-01,2015.0,9.0,54.44722222222222,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+669,12,2015-10-01,2015.0,10.0,81.14247311827957,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+670,12,2015-11-01,2015.0,11.0,151.40416666666667,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+671,12,2015-12-01,2015.0,12.0,179.70430107526883,Óxidos de Nitrógeno,NOx ,μg/m 3,30,Afecta a la vegetación
+672,14,2008-01-01,2008.0,1.0,18.037641029715555,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+673,14,2008-02-01,2008.0,2.0,24.32010582010582,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+674,14,2008-03-01,2008.0,3.0,46.210918114143915,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+675,14,2008-04-01,2008.0,4.0,53.102469135802465,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+676,14,2008-05-01,2008.0,5.0,55.47849462365591,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+677,14,2008-06-01,2008.0,6.0,67.41529982363316,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+678,14,2008-07-01,2008.0,7.0,63.83781362007168,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+679,14,2008-08-01,2008.0,8.0,64.68279569892472,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+680,14,2008-09-01,2008.0,9.0,45.96230158730159,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+681,14,2008-10-01,2008.0,10.0,31.4247311827957,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+682,14,2008-11-01,2008.0,11.0,25.788888888888888,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+683,14,2008-12-01,2008.0,12.0,21.20967741935484,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+684,14,2009-01-01,2009.0,1.0,26.290322580645164,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+685,14,2009-02-01,2009.0,2.0,29.445238095238096,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+686,14,2009-03-01,2009.0,3.0,47.693548387096776,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+687,14,2009-04-01,2009.0,4.0,61.6,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+688,14,2009-05-01,2009.0,5.0,62.73359288097887,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+689,14,2009-06-01,2009.0,6.0,63.850738916256155,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+690,14,2009-07-01,2009.0,7.0,66.66820276497695,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+691,14,2009-08-01,2009.0,8.0,70.63713944359105,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+692,14,2009-09-01,2009.0,9.0,62.304761904761904,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+693,14,2009-10-01,2009.0,10.0,30.826314953122516,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+694,14,2009-11-01,2009.0,11.0,28.890476190476193,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+695,14,2009-12-01,2009.0,12.0,27.118602499650887,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+696,14,2010-01-01,2010.0,1.0,31.00534020059637,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+697,14,2010-02-01,2010.0,2.0,40.60081254724112,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+698,14,2010-03-01,2010.0,3.0,51.06442750797589,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+699,14,2010-04-01,2010.0,4.0,62.6252052545156,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+700,14,2010-05-01,2010.0,5.0,66.10138248847926,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+701,14,2010-06-01,2010.0,6.0,59.891983345062165,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+702,14,2010-07-01,2010.0,7.0,68.28423304805793,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+703,14,2010-08-01,2010.0,8.0,62.428475422427034,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+704,14,2010-09-01,2010.0,9.0,46.156410256410254,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+705,14,2010-10-01,2010.0,10.0,32.71224152191894,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+706,14,2010-11-01,2010.0,11.0,28.790976265114193,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+707,14,2010-12-01,2010.0,12.0,19.667588325652844,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+708,14,2011-01-01,2011.0,1.0,21.313364055299537,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+709,14,2011-02-01,2011.0,2.0,29.459576138147565,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+710,14,2011-03-01,2011.0,3.0,49.50691244239631,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+711,14,2011-04-01,2011.0,4.0,59.8937074829932,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+712,14,2011-05-01,2011.0,5.0,59.447205890142484,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+713,14,2011-06-01,2011.0,6.0,65.6047619047619,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+714,14,2011-07-01,2011.0,7.0,69.10912442396314,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+715,14,2011-08-01,2011.0,8.0,63.13133640552996,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+716,14,2011-09-01,2011.0,9.0,50.364285714285714,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+717,14,2011-10-01,2011.0,10.0,33.97926267281106,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+718,14,2011-11-01,2011.0,11.0,21.36190476190476,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+719,14,2011-12-01,2011.0,12.0,16.443241167434717,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+720,14,2012-01-01,2012.0,1.0,15.122119815668203,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+721,14,2012-02-01,2012.0,2.0,34.16484869809993,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+722,14,2012-03-01,2012.0,3.0,43.066820276497694,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+723,14,2012-04-01,2012.0,4.0,56.57857142857143,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+724,14,2012-05-01,2012.0,5.0,53.57142857142857,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+725,14,2012-06-01,2012.0,6.0,57.360837438423644,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+726,14,2012-07-01,2012.0,7.0,64.76497695852535,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+727,14,2012-08-01,2012.0,8.0,53.705069124423964,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+728,14,2012-09-01,2012.0,9.0,48.114285714285714,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+729,14,2012-10-01,2012.0,10.0,26.258064516129032,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+730,14,2012-11-01,2012.0,11.0,24.088669950738915,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+731,14,2012-12-01,2012.0,12.0,17.716589861751153,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+732,14,2013-01-01,2013.0,1.0,26.553105113012947,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+733,14,2013-02-01,2013.0,2.0,35.67091836734694,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+734,14,2013-03-01,2013.0,3.0,48.122119815668206,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+735,14,2013-04-01,2013.0,4.0,58.86666666666667,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+736,14,2013-05-01,2013.0,5.0,65.02995391705069,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+737,14,2013-06-01,2013.0,6.0,74.01847290640394,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+738,14,2013-07-01,2013.0,7.0,82.81797235023042,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+739,14,2013-08-01,2013.0,8.0,73.94700460829493,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+740,14,2013-09-01,2013.0,9.0,53.43571428571429,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+741,14,2013-10-01,2013.0,10.0,29.112903225806452,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+742,14,2013-11-01,2013.0,11.0,29.51666666666667,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+743,14,2013-12-01,2013.0,12.0,21.578341013824886,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+744,14,2014-01-01,2014.0,1.0,34.41244239631337,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+745,14,2014-02-01,2014.0,2.0,41.02295918367347,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+746,14,2014-03-01,2014.0,3.0,50.56221198156682,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+747,14,2014-04-01,2014.0,4.0,53.614285714285714,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+748,14,2014-05-01,2014.0,5.0,72.26267281105991,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+749,14,2014-06-01,2014.0,6.0,76.13333333333333,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+750,14,2014-07-01,2014.0,7.0,76.29877112135178,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+751,14,2014-08-01,2014.0,8.0,71.50826314953123,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+752,14,2014-09-01,2014.0,9.0,52.642857142857146,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+753,14,2014-10-01,2014.0,10.0,34.873271889400925,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+754,14,2014-11-01,2014.0,11.0,36.00238095238095,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+755,14,2014-12-01,2014.0,12.0,21.768018433179723,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+756,14,2015-01-01,2015.0,1.0,22.73502304147465,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+757,14,2015-02-01,2015.0,2.0,47.7780612244898,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+758,14,2015-03-01,2015.0,3.0,45.47235023041475,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+759,14,2015-04-01,2015.0,4.0,64.48392857142856,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+760,14,2015-05-01,2015.0,5.0,70.41705069124424,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+761,14,2015-06-01,2015.0,6.0,82.29761904761905,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+762,14,2015-07-01,2015.0,7.0,77.66589861751152,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+763,14,2015-08-01,2015.0,8.0,69.26267281105991,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+764,14,2015-09-01,2015.0,9.0,56.42857142857143,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+765,14,2015-10-01,2015.0,10.0,32.09907834101382,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+766,14,2015-11-01,2015.0,11.0,24.133333333333333,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+767,14,2015-12-01,2015.0,12.0,14.506912442396313,Ozono,O3 ,μg/m 3,120,Máxima diaria de las medias móviles octohorarias; no podrá superarse en más de 25 días por cada año civil de promedio en un periodo de 3 años
+768,30,2008-01-01,2008.0,1.0,0.8296296296296297,Benceno,BEN,μg/m 3,5,Media anual
+769,30,2008-02-01,2008.0,2.0,0.7074074074074074,Benceno,BEN,μg/m 3,5,Media anual
+770,30,2008-03-01,2008.0,3.0,0.4967948717948719,Benceno,BEN,μg/m 3,5,Media anual
+771,30,2008-04-01,2008.0,4.0,0.36481481481481487,Benceno,BEN,μg/m 3,5,Media anual
+772,30,2008-05-01,2008.0,5.0,0.3016129032258064,Benceno,BEN,μg/m 3,5,Media anual
+773,30,2008-06-01,2008.0,6.0,0.3482142857142857,Benceno,BEN,μg/m 3,5,Media anual
+774,30,2008-07-01,2008.0,7.0,0.39032258064516134,Benceno,BEN,μg/m 3,5,Media anual
+775,30,2008-08-01,2008.0,8.0,0.3925925925925927,Benceno,BEN,μg/m 3,5,Media anual
+776,30,2008-09-01,2008.0,9.0,0.38500000000000006,Benceno,BEN,μg/m 3,5,Media anual
+777,30,2008-10-01,2008.0,10.0,0.517741935483871,Benceno,BEN,μg/m 3,5,Media anual
+778,30,2008-11-01,2008.0,11.0,0.6816666666666665,Benceno,BEN,μg/m 3,5,Media anual
+779,30,2008-12-01,2008.0,12.0,0.9580645161290322,Benceno,BEN,μg/m 3,5,Media anual
+780,30,2009-01-01,2009.0,1.0,0.7096774193548386,Benceno,BEN,μg/m 3,5,Media anual
+781,30,2009-02-01,2009.0,2.0,0.7553571428571428,Benceno,BEN,μg/m 3,5,Media anual
+782,30,2009-03-01,2009.0,3.0,0.6492213570634038,Benceno,BEN,μg/m 3,5,Media anual
+783,30,2009-04-01,2009.0,4.0,0.39907407407407414,Benceno,BEN,μg/m 3,5,Media anual
+784,30,2009-05-01,2009.0,5.0,0.4258064516129033,Benceno,BEN,μg/m 3,5,Media anual
+785,30,2009-06-01,2009.0,6.0,0.4519047619047618,Benceno,BEN,μg/m 3,5,Media anual
+786,30,2009-07-01,2009.0,7.0,0.4419354838709678,Benceno,BEN,μg/m 3,5,Media anual
+787,30,2009-08-01,2009.0,8.0,0.40606641123882503,Benceno,BEN,μg/m 3,5,Media anual
+788,30,2009-09-01,2009.0,9.0,0.3676923076923077,Benceno,BEN,μg/m 3,5,Media anual
+789,30,2009-10-01,2009.0,10.0,0.7443548387096774,Benceno,BEN,μg/m 3,5,Media anual
+790,30,2009-11-01,2009.0,11.0,0.700595238095238,Benceno,BEN,μg/m 3,5,Media anual
+791,30,2009-12-01,2009.0,12.0,1.3633820706134387,Benceno,BEN,μg/m 3,5,Media anual
+792,30,2010-01-01,2010.0,1.0,0.9829842605578931,Benceno,BEN,μg/m 3,5,Media anual
+793,30,2010-02-01,2010.0,2.0,0.9250457875457876,Benceno,BEN,μg/m 3,5,Media anual
+794,30,2010-03-01,2010.0,3.0,0.8127584780810588,Benceno,BEN,μg/m 3,5,Media anual
+795,30,2010-04-01,2010.0,4.0,0.6163984674329502,Benceno,BEN,μg/m 3,5,Media anual
+796,30,2010-05-01,2010.0,5.0,0.5087875417130144,Benceno,BEN,μg/m 3,5,Media anual
+797,30,2010-06-01,2010.0,6.0,0.5233333333333333,Benceno,BEN,μg/m 3,5,Media anual
+798,30,2010-07-01,2010.0,7.0,0.6203559510567298,Benceno,BEN,μg/m 3,5,Media anual
+799,30,2010-08-01,2010.0,8.0,0.5178123399897595,Benceno,BEN,μg/m 3,5,Media anual
+800,30,2010-09-01,2010.0,9.0,0.7576178577377979,Benceno,BEN,μg/m 3,5,Media anual
+801,30,2010-10-01,2010.0,10.0,0.9348078111481893,Benceno,BEN,μg/m 3,5,Media anual
+802,30,2010-11-01,2010.0,11.0,0.9853974335583531,Benceno,BEN,μg/m 3,5,Media anual
+803,30,2010-12-01,2010.0,12.0,1.1270553701643802,Benceno,BEN,μg/m 3,5,Media anual
+804,30,2011-01-01,2011.0,1.0,1.1664282575387508,Benceno,BEN,μg/m 3,5,Media anual
+805,30,2011-02-01,2011.0,2.0,1.1071027737694403,Benceno,BEN,μg/m 3,5,Media anual
+806,30,2011-03-01,2011.0,3.0,0.7810917480327938,Benceno,BEN,μg/m 3,5,Media anual
+807,30,2011-04-01,2011.0,4.0,0.6376053639846744,Benceno,BEN,μg/m 3,5,Media anual
+808,30,2011-05-01,2011.0,5.0,0.5123008418132631,Benceno,BEN,μg/m 3,5,Media anual
+809,30,2011-06-01,2011.0,6.0,0.5804716900808855,Benceno,BEN,μg/m 3,5,Media anual
+810,30,2011-07-01,2011.0,7.0,0.4814856012853788,Benceno,BEN,μg/m 3,5,Media anual
+811,30,2011-08-01,2011.0,8.0,0.4939735508589791,Benceno,BEN,μg/m 3,5,Media anual
+812,30,2011-09-01,2011.0,9.0,0.8211507936507937,Benceno,BEN,μg/m 3,5,Media anual
+813,30,2011-10-01,2011.0,10.0,0.9180465949820787,Benceno,BEN,μg/m 3,5,Media anual
+814,30,2011-11-01,2011.0,11.0,0.9658730158730159,Benceno,BEN,μg/m 3,5,Media anual
+815,30,2011-12-01,2011.0,12.0,1.2978494623655916,Benceno,BEN,μg/m 3,5,Media anual
+816,30,2012-01-01,2012.0,1.0,1.4026881720430104,Benceno,BEN,μg/m 3,5,Media anual
+817,30,2012-02-01,2012.0,2.0,0.9484811165845648,Benceno,BEN,μg/m 3,5,Media anual
+818,30,2012-03-01,2012.0,3.0,0.720967741935484,Benceno,BEN,μg/m 3,5,Media anual
+819,30,2012-04-01,2012.0,4.0,0.4805555555555556,Benceno,BEN,μg/m 3,5,Media anual
+820,30,2012-05-01,2012.0,5.0,0.5510752688172044,Benceno,BEN,μg/m 3,5,Media anual
+821,30,2012-06-01,2012.0,6.0,0.5616666666666666,Benceno,BEN,μg/m 3,5,Media anual
+822,30,2012-07-01,2012.0,7.0,0.5806451612903226,Benceno,BEN,μg/m 3,5,Media anual
+823,30,2012-08-01,2012.0,8.0,0.6365591397849463,Benceno,BEN,μg/m 3,5,Media anual
+824,30,2012-09-01,2012.0,9.0,0.7072222222222222,Benceno,BEN,μg/m 3,5,Media anual
+825,30,2012-10-01,2012.0,10.0,1.0999999999999999,Benceno,BEN,μg/m 3,5,Media anual
+826,30,2012-11-01,2012.0,11.0,0.9493869731800765,Benceno,BEN,μg/m 3,5,Media anual
+827,30,2012-12-01,2012.0,12.0,1.293010752688172,Benceno,BEN,μg/m 3,5,Media anual
+828,30,2013-01-01,2013.0,1.0,1.1973886328725039,Benceno,BEN,μg/m 3,5,Media anual
+829,30,2013-02-01,2013.0,2.0,0.886904761904762,Benceno,BEN,μg/m 3,5,Media anual
+830,30,2013-03-01,2013.0,3.0,0.5887096774193549,Benceno,BEN,μg/m 3,5,Media anual
+831,30,2013-04-01,2013.0,4.0,0.5233333333333333,Benceno,BEN,μg/m 3,5,Media anual
+832,30,2013-05-01,2013.0,5.0,0.4725806451612904,Benceno,BEN,μg/m 3,5,Media anual
+833,30,2013-06-01,2013.0,6.0,0.45,Benceno,BEN,μg/m 3,5,Media anual
+834,30,2013-07-01,2013.0,7.0,0.5204301075268817,Benceno,BEN,μg/m 3,5,Media anual
+835,30,2013-08-01,2013.0,8.0,0.46774193548387116,Benceno,BEN,μg/m 3,5,Media anual
+836,30,2013-09-01,2013.0,9.0,0.6772222222222223,Benceno,BEN,μg/m 3,5,Media anual
+837,30,2013-10-01,2013.0,10.0,0.8758064516129034,Benceno,BEN,μg/m 3,5,Media anual
+838,30,2013-11-01,2013.0,11.0,0.7683333333333332,Benceno,BEN,μg/m 3,5,Media anual
+839,30,2013-12-01,2013.0,12.0,1.1161846496106784,Benceno,BEN,μg/m 3,5,Media anual
+840,30,2014-01-01,2014.0,1.0,0.7989247311827956,Benceno,BEN,μg/m 3,5,Media anual
+841,30,2014-02-01,2014.0,2.0,0.7238095238095239,Benceno,BEN,μg/m 3,5,Media anual
+842,30,2014-03-01,2014.0,3.0,0.6838709677419353,Benceno,BEN,μg/m 3,5,Media anual
+843,30,2014-04-01,2014.0,4.0,0.5016283524904214,Benceno,BEN,μg/m 3,5,Media anual
+844,30,2014-05-01,2014.0,5.0,0.3897252090800478,Benceno,BEN,μg/m 3,5,Media anual
+845,30,2014-06-01,2014.0,6.0,0.44000000000000006,Benceno,BEN,μg/m 3,5,Media anual
+846,30,2014-07-01,2014.0,7.0,0.42178494623655916,Benceno,BEN,μg/m 3,5,Media anual
+847,30,2014-08-01,2014.0,8.0,0.3789988876529478,Benceno,BEN,μg/m 3,5,Media anual
+848,30,2014-09-01,2014.0,9.0,0.5586666666666666,Benceno,BEN,μg/m 3,5,Media anual
+849,30,2014-10-01,2014.0,10.0,0.9112007168458781,Benceno,BEN,μg/m 3,5,Media anual
+850,30,2014-11-01,2014.0,11.0,0.8755555555555556,Benceno,BEN,μg/m 3,5,Media anual
+851,30,2014-12-01,2014.0,12.0,1.1951612903225806,Benceno,BEN,μg/m 3,5,Media anual
+852,30,2015-01-01,2015.0,1.0,1.3064516129032258,Benceno,BEN,μg/m 3,5,Media anual
+853,30,2015-02-01,2015.0,2.0,0.7148809523809526,Benceno,BEN,μg/m 3,5,Media anual
+854,30,2015-03-01,2015.0,3.0,0.753225806451613,Benceno,BEN,μg/m 3,5,Media anual
+855,30,2015-04-01,2015.0,4.0,0.45166666666666666,Benceno,BEN,μg/m 3,5,Media anual
+856,30,2015-05-01,2015.0,5.0,0.40913978494623654,Benceno,BEN,μg/m 3,5,Media anual
+857,30,2015-06-01,2015.0,6.0,0.43024691358024697,Benceno,BEN,μg/m 3,5,Media anual
+858,30,2015-07-01,2015.0,7.0,0.5978494623655913,Benceno,BEN,μg/m 3,5,Media anual
+859,30,2015-08-01,2015.0,8.0,0.4129032258064516,Benceno,BEN,μg/m 3,5,Media anual
+860,30,2015-09-01,2015.0,9.0,0.5155555555555557,Benceno,BEN,μg/m 3,5,Media anual
+861,30,2015-10-01,2015.0,10.0,0.8752688172043012,Benceno,BEN,μg/m 3,5,Media anual
+862,30,2015-11-01,2015.0,11.0,1.3355555555555554,Benceno,BEN,μg/m 3,5,Media anual
+863,30,2015-12-01,2015.0,12.0,1.3913978494623656,Benceno,BEN,μg/m 3,5,Media anual
